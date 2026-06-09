@@ -4,8 +4,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Generative+AI+Engineer;Full+Stack+Developer;MERN+Stack+Developer;Building+with+LLMs+%26+RAG;Open+Source+Contributor" />
 </p>
 
-💫 About Me:
-Full Stack Developer & AI Enthusiast passionate about building intelligent, scalable, and user-centric applications using Generative AI, RAG pipelines, and modern web technologies.<br><br>💡 I enjoy combining AI with real-world problem solving — from AI-powered classroom systems to domain-specific chatbots and computer vision applications.<br><br>---<br><br>🔭 I’m currently working on ...<br>- AI-powered applications using RAG architectures and LLM integrations<br>- Scalable MERN stack projects with intelligent automation<br>- Enhancing chatbot systems with semantic search and vector databases<br>- Personalized AI learning platforms and recommendation systems<br><br>🌱 I’m currently learning ...<br>- Advanced Generative AI workflows<br>- Fine-tuning and optimizing LLMs<br>- AI Agents & Multi-Agent Systems<br>- Scalable backend architecture and cloud deployment<br>- Vector databases and retrieval optimization<br><br>👯 I’m looking to collaborate on ...<br>- AI/ML and Generative AI projects<br>- Open-source MERN stack applications<br>- RAG-based chatbot systems<br>- Computer Vision and automation tools<br>- Hackathons and innovative tech products<br><br>🤔 I’m looking for help with ...<br>- Production-level AI deployment<br>- LLM optimization and inference scaling<br>- Cloud infrastructure for AI systems<br>- Open-source contribution best practices<br><br>💻 Tech Stack<br> Languages: Python, JavaScript, Java, C++  <br> Frontend: React.js  <br>Backend: Node.js, Express.js  <br>Database: MongoDB, MySQL  <br>AI/ML: Generative AI, RAG, LLM APIs, NLP, Computer Vision  <br>Tools & Concepts: REST APIs, Vector Search, Semantic Retrieval<br><br>---<br><br>🏆 Achievements<br>🥉 3rd Position — IMAGEN AI at TRYST'25, IIT Delhi  <br>🏅 Top Performer — HACKSAGON 2025 (ABV-IIITM Gwalior)<br><br>---<br><br>📫 Connect with me<br>- LinkedIn: www.linkedin.com/in/garvit-khare<br>- Email: garvitkhare6805@gmail.com<br><br>---<br><br>⚡ Fun Fact: I love building AI systems that feel practical, interactive, and genuinely useful instead of just “cool demos”.
+🚀 B.Tech student passionate about building AI-powered applications using Generative AI, RAG pipelines, LLMs, and the MERN stack.
+
+🔭 Currently building intelligent chatbot systems, AI learning platforms, and scalable full-stack applications.
+
+🌱 Exploring advanced LLM workflows, AI agents, vector databases, and production-scale AI deployment.
+
+👯 Open to collaborating on AI/ML, Generative AI, MERN stack, and open-source projects.
+
+🤔 Looking to improve expertise in scalable AI infrastructure, fine-tuning, and high-performance deployment systems.
+
+🏆 3rd Position — IMAGEN AI at TRYST'25, IIT Delhi  
+🏅 Top Performer — HACKSAGON 2025 (ABV-IIITM Gwalior)
+
+⚡ I enjoy turning AI ideas into practical, real-world products.
 
 
 ## 🌐 Socials:
